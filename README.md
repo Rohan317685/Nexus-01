@@ -12,7 +12,6 @@ A Raspberry Pi Pico-sized devboard!
 <div align="center">
 
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 </div>
 
