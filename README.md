@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://cdn.hackclub.com/019ddae5-ea2e-74df-96b7-3f3880773cc5/nexus.png" alt="Cyberboard V2" width="200"></a>
+  <img src="https://cdn.hackclub.com/019ddae5-ea2e-74df-96b7-3f3880773cc5/nexus.png" alt="Nexus 01" width="200"></a>
   <br>
-  Cyberboard V2
+  Nexus 01
   <br>
 </h1>
 
@@ -64,10 +64,26 @@ The 2-layer stackup:
 
 <img src="https://cdn.hackclub.com/019ddaaf-7d03-776b-89b7-7f3b6dfc24b3/2026-04-29-202020_1920x1080_scrot.png" alt="PCB Back" width="800"/>
 
-### JLCPCB Order
+### JLCPCB Order and LCSC Order
 
 <img src="https://cdn.hackclub.com/019ddab3-74b8-71b0-a3bd-81bc6b96dd28/2026-04-29-195225_1920x1080_scrot.png" alt="PCB Back" width="800"/>
 
+<img src="https://cdn.hackclub.com/019ddb04-89f5-7ac9-a79d-ded8194eaebf/2026-04-29-215312_1920x1080_scrot.png" alt="PCB Back" width="800"/>
+
+
+| Item | Description | Part Number | LCSC Code | Qty |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tactile Switch** | SPST SMD 3.9x2.9mm | ALPS SKRKAHE020 | [C202388](https://www.lcsc.com/product-detail/C202388.html) | 10 |
+| **3-Pin Header** | 1x3P 2.54mm Pitch TH | HX PZ2.54-1x3P ZZ | [C32713269](https://www.lcsc.com/product-detail/C32713269.html) | 5 |
+| **20-Pin Header** | 1x20P 2.54mm Pitch TH | PH2.54-1X20P-H25 | [C42431804](https://www.lcsc.com/product-detail/C42431804.html) | 5 |
+
+ (Had to get 5 because only multiples of 5 were allowed also got 10 buttons because I want to practice smd hand soldering and I will messup)
+
+### Order costs
+- **Parts Total:** $2.25
+- **Shipping:** $5.85
+- **Handling Fee:** $3.00
+- **Overall Total:** **$11.10**
 ## Credits
 
 This project uses:
