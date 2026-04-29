@@ -1,14 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/cyberboard/main/assets/logo.png" alt="Cyberboard V2" width="200"></a>
+  <img src="https://raw.githubusercontent.com/NotARoomba/cyberboard/main/assets/logo.png" alt="Cyberboard V2" width="200"></a>
   <br>
   Cyberboard V2
   <br>
 </h1>
 
 <h4 align="center">
-A Raspberry Pi Pico-sized STM32 development board with Bluetooth, battery support, IMU and a barometer!
-</h4>
+A Raspberry Pi Pico-sized devboard!
 
 <div align="center">
 
@@ -24,7 +23,7 @@ A Raspberry Pi Pico-sized STM32 development board with Bluetooth, battery suppor
   <a href="#license">License</a>
 </p>
 
-<img src="assets/banner.png" alt="Cyberboard Banner" width="800"/>
+<img src="https://cdn.hackclub.com/019ddadb-f382-7869-88e8-b18d52c32b9c/Nexus%2001%20(1).png" alt="Devboard Banner" width="800"/>
 
 
 
