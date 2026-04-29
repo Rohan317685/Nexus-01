@@ -68,6 +68,8 @@ The 2-layer stackup:
 
 <img src="https://cdn.hackclub.com/019ddab3-74b8-71b0-a3bd-81bc6b96dd28/2026-04-29-195225_1920x1080_scrot.png" alt="PCB Back" width="800"/>
 
+<img src="https://cdn.hackclub.com/019ddb17-7bac-7157-a857-49a4bc310390/2026-04-29-221319_1920x1080_scrot.png" alt="PCB Back" width="800"/>
+
 <img src="https://cdn.hackclub.com/019ddb04-89f5-7ac9-a79d-ded8194eaebf/2026-04-29-215312_1920x1080_scrot.png" alt="PCB Back" width="800"/>
 
 
