@@ -28,7 +28,7 @@ A Raspberry Pi Pico-sized devboard!
 
 ## Key Features
 
--- **Raspberry Pi RP2040 chip** pico like devboard
+- **Raspberry Pi RP2040 chip** pico like devboard
 - **Multiple LED** for visual feedback
 - **USB-C**
 - **2-layer PCB** designed for cheap prices at bulk
