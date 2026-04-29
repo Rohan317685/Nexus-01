@@ -75,7 +75,7 @@ The 2-layer stackup:
 This project uses:
 
 - [KiCad](https://www.kicad.org/)
-- [Onsha[e](https://www.onshape.com/) for 3D renders
+- [Onshape](https://www.onshape.com/) for 3D renders
 - [Hack Club Macondo go join!!!](https://macondo.hackclub.com/projects/8)
 
 
