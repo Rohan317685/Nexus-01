@@ -26,78 +26,58 @@ A Raspberry Pi Pico-sized STM32 development board with Bluetooth, battery suppor
 
 <img src="assets/banner.png" alt="Cyberboard Banner" width="800"/>
 
-> **⚠️ Looking for V1?** The first version of the Cyberboard is available in the [v1 branch](https://github.com/notaroomba/cyberboard/tree/v1), but be warned: it doesn't work. V2 is a complete redesign with proper functionality.
 
-<img src="assets/final.png" alt="Cyberboard Banner" width="800"/>
 
 ## Key Features
 
-- **STM32WB55CG** microcontroller with Bluetooth support
-- **Raspberry Pi Pico form factor** for compatibility
-- **IMU and Barometer** - ICM-42688 (6-axis) and BMP580 pressure sensor for environmental/motion sensing
-- **Battery charging** with BQ24072RGTR IC and solder pad for 1S LiPo
-- **Buck-Boost converter** (TPS631000) for efficient power management
-- **Multiple Status LEDs** for visual feedback
-- **USB-C** connectivity
-- **Ceramic Bluetooth antenna** with impedance matching
-- **SWD test points** on the bottom for easy programming
-- **4-layer PCB** design with optimized RF layout and routing
+-- **Raspberry Pi RP2040 chip** pico like devboard
+- **Multiple LED** for visual feedback
+- **USB-C**
+- **2-layer PCB** designed for cheap prices at bulk
 - **Panelized design** for cost-effective manufacturing
+- **Multiple buttons** for reset, boot and extra inbuilt button
+
 
 ## PCB
 
-Designed in KiCad with attention to RF design, power management, and sensor integration. The board features a 4-layer stackup (SIG/GND/PWR/SIG) with optimized routing for the Bluetooth antenna and sensitive analog signals.
+Designed in KiCad with help of the hackclub blueprint guide and a few more features added!
 
 ### Schematic
 
-<img src="assets/schematic.png" alt="Schematic" width="800"/>
+<img src="https://cdn.hackclub.com/019ddab8-fb02-7a9b-a6dd-fd4cd54b4dca/2026-04-29-203039_1920x1080_scrot.png" alt="Schematic" width="800"/>
 
 ### PCB Layers
 
-The 4-layer stackup (SIG/GND/PWR/SIG) provides optimal signal integrity and power distribution:
+The 2-layer stackup:
 
-**Layer 1 (Signal):**
+**Layer 1 (Main routing layer):**
 
-<img src="assets/layer_1.png" alt="PCB Layer 1" width="800"/>
+<img src="https://cdn.hackclub.com/019ddaac-893d-7cf7-a13e-8f9195c10134/2026-04-29-201641_1920x1080_scrot.png" alt="PCB Layer 1" width="800"/>
 
-**Layer 2 (Ground):**
+**Layer 2 (Mainly GPIO pins):**
 
-<img src="assets/layer_2.png" alt="PCB Layer 2" width="800"/>
-
-**Layer 3 (Power):**
-
-<img src="assets/layer_3.png" alt="PCB Layer 3" width="800"/>
-
-**Layer 4 (Signal):**
-
-<img src="assets/layer_4.png" alt="PCB Layer 4" width="800"/>
+<img src="https://cdn.hackclub.com/019ddaae-21b1-7754-b7e9-7320a9da4a6b/2026-04-29-201630_1920x1080_scrot.png" alt="PCB Layer 4" width="800"/>
 
 **Front:**
 
-<img src="assets/pcb_front.png" alt="PCB Front" width="800"/>
+<img src="https://cdn.hackclub.com/019ddaae-e1c1-744e-9498-a529b3f192e0/2026-04-29-201940_1920x1080_scrot.png" alt="PCB Front" width="800"/>
 
 **Back:**
 
-<img src="assets/pcb_back.png" alt="PCB Back" width="800"/>
+<img src="https://cdn.hackclub.com/019ddaaf-7d03-776b-89b7-7f3b6dfc24b3/2026-04-29-202020_1920x1080_scrot.png" alt="PCB Back" width="800"/>
 
 ### JLCPCB Order
 
-<img src="assets/jlcpcb.png" alt="PCB Back" width="800"/>
+<img src="https://cdn.hackclub.com/019ddab3-74b8-71b0-a3bd-81bc6b96dd28/2026-04-29-195225_1920x1080_scrot.png" alt="PCB Back" width="800"/>
 
 ## Credits
 
 This project uses:
 
 - [KiCad](https://www.kicad.org/)
-- [Blender](https://www.blender.org/) for 3D renders
-- [Hack Club Blueprint](https://blueprint.hackclub.com/projects/491)
+- [Onsha[e](https://www.onshape.com/) for 3D renders
+- [Hack Club Macondo go join!!!](https://macondo.hackclub.com/projects/8)
 
-## You may also like...
-
-- [CyberCard](https://github.com/NotARoomba/CyberCard) – A Cyberpunk themed NFC hacker card
-- [Ember](https://github.com/NotARoomba/ember) – USB-C PD Powered Hotplate
-- [Trace](https://github.com/NotARoomba/trace) – An ruler for engineers
-- [Athena](https://github.com/NotARoomba/athena) – A flight controlelr with a triple MCU architecture
 
 ## License
 
@@ -105,5 +85,4 @@ MIT
 
 ---
 
-> [notaroomba.dev](https://notaroomba.dev) &nbsp;&middot;&nbsp;
-> GitHub [@NotARoomba](https://github.com/NotARoomba) &nbsp;&middot;&nbsp;
+> Readme inspired by [@NotARoomba](https://github.com/NotARoomba) &nbsp;&middot;&nbsp; go follow him now!!! : D
