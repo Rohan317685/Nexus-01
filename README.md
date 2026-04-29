@@ -85,7 +85,9 @@ The 2-layer stackup:
 - **Parts Total:** $2.25
 - **Shipping:** $5.85
 - **Handling Fee:** $3.00
-- **Overall Total:** **$11.10**
+- **PCBA:** $39.63
+- **PCBA shipping:** $1.50
+- **Overall Total:** **$52.23**
 ## Credits
 
 This project uses:
