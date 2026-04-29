@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/NotARoomba/cyberboard/main/assets/logo.png" alt="Cyberboard V2" width="200"></a>
+  <img src="https://cdn.hackclub.com/019ddae5-ea2e-74df-96b7-3f3880773cc5/nexus.png" alt="Cyberboard V2" width="200"></a>
   <br>
   Cyberboard V2
   <br>
