@@ -80,6 +80,7 @@ The 2-layer stackup:
 | **20-Pin Header** | 1x20P 2.54mm Pitch TH | PH2.54-1X20P-H25 | [C42431804](https://www.lcsc.com/product-detail/C42431804.html) | 5 |
 
  (Had to get 5 because only multiples of 5 were allowed also got 10 buttons because I want to practice smd hand soldering and I will messup)
+ Im buying from LCSC mainly because no companies atleast reliable companies sell those types of exact switches and those headers (I looked at aliexpress, digikey, mouser , rapid electronics and a few more and I decided this has the best price and good shipping price!
 
 ### Order costs
 - **Parts Total:** $2.25
