@@ -76,7 +76,7 @@ The 2-layer stackup:
 | Item | Description | Part Number | LCSC Code | Qty |
 | :--- | :--- | :--- | :--- | :--- |
 | **Tactile Switch** | SPST SMD 3.9x2.9mm | ALPS SKRKAHE020 | [C202388](https://www.lcsc.com/product-detail/C202388.html?s_z=n_q_C202388) | 10 || **3-Pin Header** | 1x3P 2.54mm Pitch TH | HX PZ2.54-1x3P ZZ | [C32713269](https://www.lcsc.com/product-detail/C32713269.html) | 5 |
-| **3-Pin Header** | 1x3P 2.54mm Pitch TH | HX PZ2.54-1x3P ZZ | [C32713269]() | 5 |
+| **3-Pin Header** | 1x3P 2.54mm Pitch TH | HX PZ2.54-1x3P ZZ | [C32713269](https://www.lcsc.com/product-detail/C32713269.html?s_z=n_q_C32713269) | 5 |
 | **20-Pin Header** | 1x20P 2.54mm Pitch TH | PH2.54-1X20P-H25 | [C42431804](https://www.lcsc.com/product-detail/C42431804.html?s_z=n_q_C42431804) | 5 |
 
  (Had to get 5 because only multiples of 5 were allowed also got 10 buttons because I want to practice smd hand soldering and I will messup)
